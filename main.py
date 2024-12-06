@@ -9,7 +9,7 @@ import os
 os.environ["OPENAI_API_KEY"] = "key"
 
 # provide the path of  pdf file/files.
-pdfreader = PdfReader('dokumen/raymond-yang-akan-diuji.pdf')
+pdfreader = PdfReader('raymond-yang-akan-diuji.pdf')
 
 #split text
 from typing_extensions import Concatenate
