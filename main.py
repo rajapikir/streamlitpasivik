@@ -119,7 +119,7 @@ st.set_page_config(
 )
 
 
-st.title("ChatGPT Clone")
+st.title("pasivik raymond")
 
 
 # check for messages in session and create if not exists
